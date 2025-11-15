@@ -1,0 +1,5 @@
+1. @AGENTS.md 를 읽고 사이트 제작을 할거야. 기술 스택은 TypeScript, HTML, CSS 를 중심으로 필요한 프레임워크를 사용하고, 각 지침을 따라서 개발을 진행해. 각 지침은 AGENTS.md에 나와있드시 @PRD_UI_COMPONENT_LIBRARY-4.md  @STYLE_GUIDE-4.md @COLOR-THEMES-4.json 를 매 화면 개발 마다 참고해서 진행하도록 해. 먼저 플랜을 짜고, 개발을 어떤 순서로 진행할건지 브리핑 한 뒤 순차적으로 개발을 진행하도록 해 
+
+
+2. 현재 까지 작업 내역을 root 밑에 CONTEXT.md에 기록하고, 좌측 트리메뉴에서 클릭시 구현이 되지 않은 모든 페이지들을 구현해
+

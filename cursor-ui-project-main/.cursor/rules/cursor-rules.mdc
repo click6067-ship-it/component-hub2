@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+모든 개발은 @AGENTS.md 파일을 읽고 착수해야 함 
+특히 화면 개발에 필요한 지침은 COLOR-THEMES-4.json, PRD_UI_COMPONENT_LIBRARY-4.md, STYLE_GUIDE-4.md 를 항상 참고해서 작업을 진행할것.
